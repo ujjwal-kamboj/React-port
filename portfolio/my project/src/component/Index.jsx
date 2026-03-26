@@ -8,9 +8,9 @@ export default function index() {
       <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-10 items-center">
         
        
-        <div>
-          <h2 className="text-2xl font-bold mb-4">ABOUT</h2>
-          <p className='text-gray-400 mb-4'>ujjwalkamboj001@gmail.com</p>
+        <div className='mt-7'>
+          <h2 className="text-4xl font-bold mb-2">ABOUT</h2>
+          <p className='text-gray-400 mb-10'>ujjwalkamboj001@gmail.com</p>
 
           <p className="text-gray-400 ">
             Web devloper with 10+ years of experience specializing in IT 
@@ -23,8 +23,8 @@ export default function index() {
             permanently streamline infrastructure and applications.
           </p>
 
-          <p className="mt-6 text-sm text-gray-500">
-            📍 Karnal, Haryana <br />
+          <p className="mt-40 ml-20">
+             Karnal, Haryana -132001<br />
             12529 State Road 55
           </p>
         </div>

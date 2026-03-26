@@ -16,7 +16,7 @@ export default function Navbar() {
 
        
         <div className="text-sm font-light">
-          📞 701-963-5231
+           701-963-5231
         </div>
 
      

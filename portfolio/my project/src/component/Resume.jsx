@@ -24,55 +24,50 @@ export default function Resume() {
         <div>
           <h2 className="text-xl font-bold mb-6">Software Skills</h2>
 
-          <SkillBar name="Photoshop" percent={80} />
-          <SkillBar name="Illustrator" percent={85} />
-          <SkillBar name="InDesign" percent={80} />
-          <SkillBar name="Premiere" percent={70} />
-          <SkillBar name="After Effects" percent={75} />
+          <SkillBar name="HTML" percent={80} />
+          <SkillBar name="CSS" percent={85} />
+          <SkillBar name="JAVA" percent={80} />
+          <SkillBar name="React JS" percent={70} />
+          <SkillBar name="C/C++" percent={75} />
 
           <h2 className="text-xl font-bold mt-10 mb-4">Languages</h2>
 
           <SkillBar name="English" percent={95} />
-          <SkillBar name="Arabic" percent={70} />
-          <SkillBar name="Turkish" percent={60} />
+          <SkillBar name="Hindi" percent={70} />
+        
         </div>
 
         <div>
-          <h2 className="text-xl font-bold mb-6">Experience</h2>
+          <h2 className="text-xl font-bold mb-6">Project</h2>
 
           <div className="mb-6">
-            <p className="font-semibold">Art Director</p>
+            <p className="font-semibold">Portfolio Website</p>
             <p className="text-gray-400 text-sm">
-              White Fish Advertising Co.
+              Created using React  & Tailwind CSS
             </p>
           </div>
 
           <div className="mb-6">
-            <p className="font-semibold">Senior Graphic Designer</p>
+            <p className="font-semibold">ATM Interface UI</p>
             <p className="text-gray-400 text-sm">
-              Pyramids Sun Advertising Co.
+              Designed using HTML, CSS, and JavaScript
             </p>
           </div>
 
           <div className="mb-6">
-            <p className="font-semibold">Graphic Designer</p>
+            <p className="font-semibold">Student Management System </p>
             <p className="text-gray-400 text-sm">
-              Planet Stationary & Printing
+             Developed in C++
             </p>
           </div>
 
-          <div className="mb-6">
-            <p className="font-semibold">Graphic Designer</p>
-            <p className="text-gray-400 text-sm">
-              Marco Florida Internet
-            </p>
-          </div>
+          
 
-          <h2 className="text-xl font-bold mt-10 mb-4">Education</h2>
+          <h2 className="text-xl font-bold mt-22 mb-4">Education</h2>
 
           <p className="text-gray-400">
-            BS/MS in Computer Science <br />
-            University of Maryland
+           Bachelor of  Computer Application (BCA) <br />
+           Kurukshetra University 
           </p>
         </div>
 
@@ -81,26 +76,26 @@ export default function Resume() {
           <h2 className="text-xl font-bold mb-6">What Can I Do?</h2>
 
           <ul className="space-y-2 text-gray-400">
-            <li>Logo Design</li>
-            <li>Branding</li>
-            <li>Packaging</li>
-            <li>Advertising</li>
+            <li>Web Development</li>
+            <li>Frontend Design</li>
+            <li>Responsive Layouts</li>
+            <li>Basic Backend Logic</li>
             <li>Strategy</li>
           </ul>
 
           <h2 className="text-xl font-bold mt-10 mb-4">Design Skills</h2>
 
           <ul className="space-y-2 text-gray-400">
-            <li>Creativity</li>
-            <li>Planning</li>
-            <li>Layout</li>
-            <li>Color Sense</li>
+            <li>Problem Solving</li>
+            <li>Time Management</li>
+            <li>Team work</li>
+            <li>Communication</li>
           </ul>
 
           <h2 className="text-xl font-bold mt-10 mb-4">Hobbies</h2>
 
           <p className="text-gray-400">
-            Reading • Drawing • Travel • Photography
+            Coding • Learning Tech • Reading • Gaming
           </p>
         </div>
 
