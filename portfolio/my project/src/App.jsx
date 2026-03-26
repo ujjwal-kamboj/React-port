@@ -8,9 +8,9 @@ export default function App() {
   return (
     <div>
       <Navbar />
-      <Home/>
+      {/* <Home/>
       <Index/>
-      <Resume/>
+      <Resume/> */}
     </div>
   )
 }
